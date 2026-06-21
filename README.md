@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manjusha Maddela</h1>
+<h2 align="center">Hi 👋, I'm Manjusha Maddela</h2>
 <h3 align="center">Full Stack Developer | Backend-Focused Developer</h3>
 <h5 align="left">I'm a Software Developer with experience in designing, developing, and maintaining web and mobile applications. My expertise includes backend development, database management, API development, deployment, and full-stack application development.</h5>
 
