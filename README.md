@@ -3,11 +3,11 @@
 <h5 align="left">I'm a Software Developer with experience in designing, developing, and maintaining web and mobile applications. My expertise includes backend development, database management, API development, deployment, and full-stack application development.</h5>
 
 ## 📌 About Me
-💼 Software Developer with 1 year of professional experience
-🔧 Experienced in Backend Development, Database Management, API Design, and Deployment
-🌱 Passionate about building scalable and efficient software solutions
-💻 Strong understanding of system architecture, authentication, authorization, and business workflows
-🚀 Interested in Full Stack Development and Backend Engineering
+-💼 Software Developer with 1 year of professional experience
+-🔧 Experienced in Backend Development, Database Management, API Design, and Deployment
+-🌱 Passionate about building scalable and efficient software solutions
+-💻 Strong understanding of system architecture, authentication, authorization, and business workflows
+-🚀 Interested in Full Stack Development and Backend Engineering
 
 ## 💼 Professional Experience
 **Software Developer | XSILICA Software Solutions Pvt Ltd**
