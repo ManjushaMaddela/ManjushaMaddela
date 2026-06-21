@@ -99,6 +99,6 @@ I am a passionate Full Stack Developer with experience in building scalable web 
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add Your LinkedIn Profile Link
-* Email: Add Your Email
+* GitHub: https://github.com/ManjushaMaddela
+* LinkedIn: https://www.linkedin.com/in/manjushamaddela
+* Email: manjushamaddela@gmail.com
