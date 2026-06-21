@@ -1,104 +1,105 @@
-# Hi 👋, I'm M. Manjusha
+<h1 align="center">Hi 👋, I'm Manjusha Maddela</h1>
+<h3 align="center">• Managed MySQL databases includings chema design, query optimization, relationship  management, data administration, and database maintenance.  • Participated in application server deployment, production management, server configuration,  environment setup, and production issue resolution.  • Designed, developed, and integrated RESTful and GraphQL APIs for frontend, mobile, and third party integrations.  • Developed backend modules including authentication, authorization, business logic, and role based access control.  • Optimized application performance by debugging bottlenecks and improving database query  execution.  • Developed and maintained scalable full-stack web and mobile applications using React.js, React  Native, Next.js, Nest.js, Django, Laravel, Node.js, PHP, and Python.  • Collaborated with frontend developers, QA teams, and stakeholders in Agile development  processes. </h3>
 
-### Full Stack Developer | Backend Developer
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ManjushaMaddela">
+    <img src="https://komarev.com/ghpvc/?username=ManjushaMaddela&label=Profile%20views&color=00FFFF&style=flat-square" alt="ManjushaMaddela's profile views" />
+  </a>
+</p>
 
-I am a passionate Full Stack Developer with experience in building scalable web and mobile applications using modern technologies. I have hands-on experience in backend development, database management, API development, server deployment, and full-stack application development.
+## 📌 About Me
+- Full Stack Developer with 1 year of professional experience in building and maintaining web and mobile
+- applications. Strong background in backend development, system design, database management, API
+- development, and deployment, complemented by experience in creating intuitive and responsive user
+- interfaces. Passionate about developing scalable software solutions, optimizing application performance,
+- and contributing to the successful delivery of high-quality products in collaborative environments.
 
----
 
-## 🚀 About Me
+## 🧠 My Focus Areas
+- Backend Developer
+- Frontend Developer
+- Database Management, Server Management
+- Full-Stack Development
 
-* 💻 Software Developer
-* 🌱 Currently working with NestJS, React.js, Next.js, React Native, MySQL, GraphQL
-* 🔧 Experienced in Database Design, API Development, Deployment & Server Management
-* 🎯 Career Goal: Backend / Full Stack Developer
-* 📍 Hyderabad, India
 
----
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ManjushaMaddela">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManjushaMaddela&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ManjushaMaddela's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ManjushaMaddela&theme=dark&hide_border=true&cache_seconds=86400" alt="ManjushaMaddela's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ManjushaMaddela&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Manjusha Maddela's GitHub Trophies" />
+</p>
 
-## 🛠️ Tech Stack
 
-### Languages
+## 🛠️ Languages & Tools
 
-* JavaScript
-* TypeScript
-* Python
-* PHP
-* SQL
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
 
-### Frontend
+</p>
 
-* React.js
-* Next.js
-* React Native
-* HTML5
-* CSS3
-* Bootstrap
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-### Backend
+</p>
 
-* NestJS
-* Django
-* Laravel
-* Node.js
-* REST APIs
-* GraphQL APIs
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
 
-### Database
+</p>
 
-* MySQL
-* Prisma ORM
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
-### Tools & Technologies
+</p>
 
-* Git
-* GitHub
-* Postman
-* Altair GraphQL
-* VS Code
-* Linux
-* Nginx
-* Apache Server
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 
----
+</p>
 
-## 📂 Projects
+<p align="center">
+  <a href="https://github.com/ManjushaMaddela">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManjushaMaddela&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-### Event Service Management Platform
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linked.com/in/manjushamaddela"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Manjusha Maddela's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:manjushamaddela@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Manjusha Maddela's Email"/></a>&nbsp;&nbsp;
+  <a href="https://wa.me/919492791919"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
-* Full-stack event management application.
-* Vendor, Customer, and Admin Management.
-* Booking, Payments, Complaints, Reports, and Service Management.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 
-**Tech Stack:** React.js, NestJS, GraphQL, MySQL
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-### IT Service Management (ITSM) Platform
-
-* Employee Service Requests.
-* Incident Management.
-* Approval Workflows.
-* Onboarding & Offboarding Management.
-
-**Tech Stack:** Next.js, React Native, NestJS, GraphQL, MySQL
-
-### Metro Ticket Booking Application
-
-* Ticket booking and fare management system.
-
-**Tech Stack:** React, Django, MySQL
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/ManjushaMaddela
-* LinkedIn: https://www.linkedin.com/in/manjushamaddela
-* Email: manjushamaddela@gmail.com
