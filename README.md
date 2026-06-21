@@ -2,25 +2,30 @@
 <h3 align="center">Full Stack Developer | Backend-Focused Developer</h3>
 <h5 align="left">I'm a Software Developer with experience in designing, developing, and maintaining web and mobile applications. My expertise includes backend development, database management, API development, deployment, and full-stack application development.</h5>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ManjushaMaddela">
-    <img src="https://komarev.com/ghpvc/?username=ManjushaMaddela&label=Profile%20views&color=00FFFF&style=flat-square" alt="ManjushaMaddela's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
-- Full Stack Developer with 1 year of professional experience in building and maintaining web and mobile
-- applications. Strong background in backend development, system design, database management, API
-- development, and deployment, complemented by experience in creating intuitive and responsive user
-- interfaces. Passionate about developing scalable software solutions, optimizing application performance,
-- and contributing to the successful delivery of high-quality products in collaborative environments.
+💼 Software Developer with 1 year of professional experience
+🔧 Experienced in Backend Development, Database Management, API Design, and Deployment
+🌱 Passionate about building scalable and efficient software solutions
+💻 Strong understanding of system architecture, authentication, authorization, and business workflows
+🚀 Interested in Full Stack Development and Backend Engineering
 
+## 💼 Professional Experience
+**Software Developer | XSILICA Software Solutions Pvt Ltd**
+- Designed and developed RESTful and GraphQL APIs
+- Managed MySQL databases including schema design and query optimization
+- Worked on deployment, server configuration, and production issue resolution
+- Developed authentication, authorization, and role-based access control modules
+- Built scalable web and mobile applications
+- Collaborated with frontend, QA, and product teams in Agile environments
 
 ## 🧠 My Focus Areas
-- Backend Developer
-- Frontend Developer
-- Database Management, Server Management
-- Full-Stack Development
+- Full Stack Development
+- Backend Development
+- Database Management
+- API Design
+- System Architecture
+- Server Deployment
+- Application Performance Optimization
 
 
 ## 📊 GitHub Stats & Trophies
