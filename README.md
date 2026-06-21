@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manjusha Maddela</h1>
-<h3 align="center">• Managed MySQL databases includings chema design, query optimization, relationship  management, data administration, and database maintenance.  • Participated in application server deployment, production management, server configuration,  environment setup, and production issue resolution.  • Designed, developed, and integrated RESTful and GraphQL APIs for frontend, mobile, and third party integrations.  • Developed backend modules including authentication, authorization, business logic, and role based access control.  • Optimized application performance by debugging bottlenecks and improving database query  execution.  • Developed and maintained scalable full-stack web and mobile applications using React.js, React  Native, Next.js, Nest.js, Django, Laravel, Node.js, PHP, and Python.  • Collaborated with frontend developers, QA teams, and stakeholders in Agile development  processes. </h3>
+<h5 align="left">• Managed MySQL databases includings chema design, query optimization, relationship  management, data administration, and database maintenance.  • Participated in application server deployment, production management, server configuration,  environment setup, and production issue resolution.  • Designed, developed, and integrated RESTful and GraphQL APIs for frontend, mobile, and third party integrations.  • Developed backend modules including authentication, authorization, business logic, and role based access control.  • Optimized application performance by debugging bottlenecks and improving database query  execution.  • Developed and maintained scalable full-stack web and mobile applications using React.js, React  Native, Next.js, Nest.js, Django, Laravel, Node.js, PHP, and Python.  • Collaborated with frontend developers, QA teams, and stakeholders in Agile development  processes. </h5>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ManjushaMaddela">
@@ -101,5 +101,5 @@
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
 
