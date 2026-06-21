@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manjusha Maddela</h1>
-<h5 align="left">• Managed MySQL databases includings chema design, query optimization, relationship  management, data administration, and database maintenance.  • Participated in application server deployment, production management, server configuration,  environment setup, and production issue resolution.  • Designed, developed, and integrated RESTful and GraphQL APIs for frontend, mobile, and third party integrations.  • Developed backend modules including authentication, authorization, business logic, and role based access control.  • Optimized application performance by debugging bottlenecks and improving database query  execution.  • Developed and maintained scalable full-stack web and mobile applications using React.js, React  Native, Next.js, Nest.js, Django, Laravel, Node.js, PHP, and Python.  • Collaborated with frontend developers, QA teams, and stakeholders in Agile development  processes. </h5>
+<h3 align="center">Full Stack Developer | Backend-Focused Developer</h3>
+<h5 align="left">I'm a Software Developer with experience in designing, developing, and maintaining web and mobile applications. My expertise includes backend development, database management, API development, deployment, and full-stack application development.</h5>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ManjushaMaddela">
