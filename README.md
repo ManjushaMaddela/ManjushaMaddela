@@ -18,6 +18,41 @@
 - Built scalable web and mobile applications
 - Collaborated with frontend, QA, and product teams in Agile environments
 
+## Professional Projects
+### Aahwanam – Event Service Management Platform
+Role: Full Stack Developer, Database Management, Deployment and Server Management
+
+Overview:
+Developed and maintained modules for vendor management, service management, bookings, payments, subscriptions, complaints, and role management.
+
+Responsibilities:
+- Backend API Development
+- Database Design & Management
+- GraphQL Integration
+- Admin Panel Development
+- Database Management
+- Deployment & Production Support
+
+Tech Stack:
+React.js, NestJS, GraphQL, MySQL, Prisma ORM, Linux, Nginx Server.
+
+### IT Service Management (ITSM) Platform both Mobile and WEB Application
+Role: Full Stack Developer, Database Management, Deployment and Server Management
+
+Overview:
+Enterprise service management platform for managing service requests, incidents, approvals, onboarding, and offboarding workflows.
+
+Responsibilities:
+- Employee & Admin Modules (Service and Incident Requests)
+- Approval Workflows
+- Authentication & Authorization
+- Database Management
+- API Development
+- Deployment & Production Support
+
+Tech Stack:
+Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
+
 ## 🧠 My Focus Areas
 - Full Stack Development
 - Backend Development
