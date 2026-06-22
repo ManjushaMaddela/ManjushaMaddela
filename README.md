@@ -13,6 +13,7 @@
 </ul>
 
 <h3>💼 Professional Experience</h3>
+<hr></hr>
 <div align="left">
 <h4>🚀 Software Developer | XSILICA Software Solutions Pvt Ltd</h4>
 <p>
@@ -28,40 +29,51 @@ Experienced in full-stack application development with a strong focus on backend
 </ul>
 </div>
 
-## Professional Projects
-### Aahwanam – Event Service Management Platform
-Role: Full Stack Developer, Database Management, Deployment and Server Management
-
-Overview:
+<h3>🚀 Professional Projects</h3>
+<hr></hr>
+<h4>🎉 Aahwanam – Event Service Management Platform</h4>
+<p>
+<b>Role:</b> Full Stack Developer, Database Management, Deployment and Server Management
+</p>
+<p>
+<b>Overview:</b>
 Developed and maintained modules for vendor management, service management, bookings, payments, subscriptions, complaints, and role management.
+</p>
+<p><b>Responsibilities:</b></p>
+<ul>
+  <li>-Backend API Development</li>
+  <li>-Database Design & Management</li>
+  <li>-GraphQL Integration</li>
+  <li>-Admin Panel Development</li>
+  <li>-Database Management</li>
+  <li>-Deployment & Production Support</li>
+</ul>
+<p>
+<b>Tech Stack:</b>
+React.js • NestJS • GraphQL • MySQL • Prisma ORM • Linux • Nginx Server
+</p>
 
-Responsibilities:
-- Backend API Development
-- Database Design & Management
-- GraphQL Integration
-- Admin Panel Development
-- Database Management
-- Deployment & Production Support
-
-Tech Stack:
-React.js, NestJS, GraphQL, MySQL, Prisma ORM, Linux, Nginx Server.
-
-### IT Service Management (ITSM) Platform both Mobile and WEB Application
-Role: Full Stack Developer, Database Management, Deployment and Server Management
-
-Overview:
+<h4>🎉 IT Service Management (ITSM) Platform both Mobile and WEB Application</h4>
+<p>
+<b>Role:</b> Full Stack Developer, Database Management, Deployment and Server Management
+</p>
+<p>
+<b>Overview:</b>
 Enterprise service management platform for managing service requests, incidents, approvals, onboarding, and offboarding workflows.
-
-Responsibilities:
-- Employee & Admin Modules (Service and Incident Requests)
-- Approval Workflows
-- Authentication & Authorization
-- Database Management
-- API Development
-- Deployment & Production Support
-
-Tech Stack:
+</p>
+<p><b>Responsibilities:</b></p>
+<ul>
+  <li>- Employee & Admin Modules (Service and Incident Requests)</li>
+  <li>- Approval Workflows</li>
+  <li>- Authentication & Authorization</li>
+  <li>- Database Management</li>
+  <li>- API Development</li>
+  <li>- Deployment & Production Support</li>
+</ul>
+<p>
+<b>Tech Stack:</b>
 Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
+</p>
 
 ## 🧠 My Focus Areas
 - Full Stack Development
