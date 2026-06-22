@@ -12,14 +12,28 @@
   <li>🚀 Interested in Full Stack Development and Backend Engineering</li>
 </ul>
 
-## 💼 Professional Experience
-**Software Developer | XSILICA Software Solutions Pvt Ltd**
-- Designed and developed RESTful and GraphQL APIs
-- Managed MySQL databases including schema design and query optimization
-- Worked on deployment, server configuration, and production issue resolution
-- Developed authentication, authorization, and role-based access control modules
-- Built scalable web and mobile applications
-- Collaborated with frontend, QA, and product teams in Agile environments
+<h2>💼 Professional Experience</h2>
+<table>
+<tr>
+<td>
+<h3>Software Developer</h3>
+<p>
+<b>Company:</b> XSILICA Software Solutions Pvt Ltd
+</p>
+<p>
+<b>Key Responsibilities:</b>
+</p>
+<ul>
+  <li>Designed and developed RESTful and GraphQL APIs</li>
+  <li>Managed MySQL databases including schema design and query optimization</li>
+  <li>Worked on deployment, server configuration, and production issue resolution</li>
+  <li>Developed authentication, authorization, and role-based access control modules</li>
+  <li>Built scalable web and mobile applications</li>
+  <li>Collaborated with frontend developers, QA teams, and stakeholders in Agile environments</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ## Professional Projects
 ### Aahwanam – Event Service Management Platform
