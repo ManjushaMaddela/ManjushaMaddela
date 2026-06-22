@@ -3,7 +3,7 @@
 <h5 align="left">I'm a Software Developer with experience in designing, developing, and maintaining web and mobile applications. My expertise includes backend development, database management, API development, deployment, and full-stack application development.</h5>
 
 <h3>📌 About Me</h3>
-<br></br>
+<hr></hr>
 <ul>
   <li>💼 Software Developer with 1 year of professional experience</li>
   <li>🔧 Experienced in Backend Development, Database Management, API Design, and Deployment</li>
