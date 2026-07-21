@@ -6,10 +6,10 @@
 <hr></hr>
 <ul>
   <li>💼 Software Developer with 1 year of professional experience</li>
-  <li>🔧 Experienced in Backend Development, Database Management, API Design, and Deployment</li>
+  <li>🔧 Experienced in both front-end, Backend Development, Database Management, API Design, and Deployment</li>
   <li>🌱 Passionate about building scalable and efficient software solutions</li>
   <li>💻 Strong understanding of system architecture, authentication, authorization, and business workflows</li>
-  <li>🚀 Interested in Full Stack Development and Backend Engineering</li>
+  <li>🚀 Interested in Full Stack Development and database Administrator</li>
 </ul>
 
 <h3>💼 Professional Experience</h3>
