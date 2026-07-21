@@ -9,7 +9,7 @@
   <li>🔧 Experienced in both front-end, Backend Development, Database Management, API Design, and Deployment</li>
   <li>🌱 Passionate about building scalable and efficient software solutions</li>
   <li>💻 Strong understanding of system architecture, authentication, authorization, and business workflows</li>
-  <li>🚀 Interested in Full Stack Development and database Administrator</li>
+  <li>🚀 Interested in Full Stack Development and Database Administrator</li>
 </ul>
 
 <h3>💼 Professional Experience</h3>
