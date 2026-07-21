@@ -17,15 +17,17 @@
 <div align="left">
 <h4>🚀 Software Developer | XSILICA Software Solutions Pvt Ltd</h4>
 <p>
-Experienced in full-stack application development with a strong focus on backend development, database management, API development, deployment, and server management.
+Experienced in Full Stack Development, Database Engineering, API Development, and Application Deployment, building scalable, secure, and high-performance web and mobile applications.
 </p>
 <ul>
-  <li>-Designed and developed RESTful and GraphQL APIs</li>
-  <li>-Managed MySQL databases including schema design and query optimization</li>
-  <li>-Worked on deployment, server configuration, and production issue resolution</li>
-  <li>-Developed authentication, authorization, and role-based access control modules</li>
-  <li>-Built scalable web and mobile applications</li>
-  <li>-Collaborated with frontend developers, QA teams, and stakeholders in Agile environments</li>
+  <li>Designed and developed scalable RESTful and GraphQL APIs for web and mobile applications.</li>
+  <li>Built and maintained full-stack applications using modern frontend and backend technologies.</li>
+  <li>Designed, managed, and optimized MySQL and Microsoft SQL Server (MSSQL) databases, including schema design, data migrations, query optimization, and database maintenance.</li>
+  <li>Managed application deployment, Linux server configuration, Nginx, environment setup, and production releases.</li>
+  <li>Developed secure authentication, authorization, and Role-Based Access Control (RBAC) modules.</li>
+  <li>Monitored, diagnosed, and resolved production issues to ensure application reliability and performance.</li>
+  <li>Collaborated with frontend developers, QA engineers, and cross-functional teams in an Agile development environment.  </li>
+  <li>Used Git and GitHub for version control, code reviews, and collaborative development.</li>
 </ul>
 </div>
 
