@@ -156,9 +156,9 @@ Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
 </p>
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linked.com/in/manjushamaddela"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Manjusha Maddela's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="http://www.linkedin.com/in/manjushamaddela"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Manjusha Maddela's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:manjushamaddela@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Manjusha Maddela's Email"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/919492791919"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://wa.me/9492791919"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 <picture>
