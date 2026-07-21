@@ -20,14 +20,14 @@
 Experienced in Full Stack Development, Database Engineering, API Development, and Application Deployment, building scalable, secure, and high-performance web and mobile applications.
 </p>
 <ul>
-  <li>Designed and developed scalable RESTful and GraphQL APIs for web and mobile applications.</li>
+  <li>Designed and developed scalable <b>RESTful</b> and <b>GraphQL APIs</b> for web and mobile applications.</li>
   <li>Built and maintained full-stack applications using modern frontend and backend technologies.</li>
-  <li>Designed, managed, and optimized MySQL and Microsoft SQL Server (MSSQL) databases, including schema design, data migrations, query optimization, and database maintenance.</li>
-  <li>Managed application deployment, Linux server configuration, Nginx, environment setup, and production releases.</li>
-  <li>Developed secure authentication, authorization, and Role-Based Access Control (RBAC) modules.</li>
+  <li>Designed, managed, and optimized <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b> and <b>PostgreSQL</b> databases, including schema design, data migrations, query optimization, and database maintenance.</li>
+  <li>Managed application deployment, <b>Linux server configuration, Nginx</b>, environment setup, and production releases.</li>
+  <li>Developed secure authentication, authorization, and <b>Role-Based Access Control (RBAC) modules</b>.</li>
   <li>Monitored, diagnosed, and resolved production issues to ensure application reliability and performance.</li>
-  <li>Collaborated with frontend developers, QA engineers, and cross-functional teams in an Agile development environment.  </li>
-  <li>Used Git and GitHub for version control, code reviews, and collaborative development.</li>
+  <li>Collaborated with frontend developers, QA engineers, and cross-functional teams in an <b>Agile development environment</b>.  </li>
+  <li>Used <b>Git</b> and <b>GitHub</b> for version control, code reviews, and collaborative development.</li>
 </ul>
 </div>
 
