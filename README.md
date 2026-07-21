@@ -1,15 +1,15 @@
 <h2 align="center">Hi 👋, I'm Manjusha Maddela</h2>
-<h3 align="center">Software Engineer | Full Stack Developer | Database Administration | Application Deployment & Infrastructure Management</h3>
-<h5 align="left">I'm a Software Engineer with 1+ year of experience in developing, deploying, and maintaining enterprise web and mobile applications. Experienced in full-stack development, database administration, API development, and application deployment, with a strong interest in building scalable and reliable software systems.</h5>
+<h3 align="center">Software Engineer | Full Stack Developer | Database Engineering | Application Deployment & Infrastructure Management</h3>
+<h5 align="left">I'm a Software Engineer with 1+ year of experience in developing, deploying, and maintaining enterprise web and mobile applications. Experienced in full-stack development, Database Development & Management, API development, and application deployment, with a strong interest in building scalable and reliable software systems.</h5>
 
 <h3>📌 About Me</h3>
 <hr></hr>
 <ul>
   <li>💼 Software Developer with 1 year of professional experience</li>
-  <li>🔧 Experienced in both front-end, Backend Development, Database Management, API Design, and Deployment</li>
+  <li>🔧 Experienced in both front-end, Backend Development, Database Development & Management, API Design, and Deployment</li>
   <li>🌱 Passionate about building scalable and efficient software solutions</li>
   <li>💻 Strong understanding of system architecture, authentication, authorization, and business workflows</li>
-  <li>🚀 Interested in Full Stack Development and Database Administrator</li>
+  <li>🚀 Interested in Full Stack Development and Database Engineering</li>
 </ul>
 
 <h3>💼 Professional Experience</h3>
