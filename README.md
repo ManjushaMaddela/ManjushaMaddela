@@ -35,16 +35,16 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
 <hr></hr>
 <h4>🎉 Aahwanam – Event Service Management Platform</h4>
 <p>
-<b>Role:</b> Full Stack Developer, Database Management, Deployment and Server Management
+<b>Role:</b> Full Stack Developer, Database Development & Management, Project Deployment and Server Management
 </p>
 <p>
 <b>Overview:</b>
-Developed and maintained modules for vendor management, service management, bookings, payments, subscriptions, complaints, and role management.
+Developed and maintained modules for User and vendor managements, service management, bookings and ratings, payments, subscriptions, complaints, and role management.
 </p>
 <p><b>Responsibilities:</b></p>
 <ul>
   <li>-Backend API Development</li>
-  <li>-Database Design & Management</li>
+  <li>-Database Develop</li>
   <li>-GraphQL Integration</li>
   <li>-Admin Panel Development</li>
   <li>-Database Management</li>
@@ -57,7 +57,7 @@ React.js • NestJS • GraphQL • MySQL • Prisma ORM • Linux • Nginx Ser
 
 <h4>🎉 IT Service Management (ITSM) Platform both Mobile and WEB Application</h4>
 <p>
-<b>Role:</b> Full Stack Developer, Database Management, Deployment and Server Management
+<b>Role:</b> Full Stack Developer, Database Development & Management, Project Deployment and Server Management
 </p>
 <p>
 <b>Overview:</b>
@@ -68,7 +68,7 @@ Enterprise service management platform for managing service requests, incidents,
   <li>- Employee & Admin Modules (Service and Incident Requests)</li>
   <li>- Approval Workflows</li>
   <li>- Authentication & Authorization</li>
-  <li>- Database Management</li>
+  <li>- Database Development and Management</li>
   <li>- API Development</li>
   <li>- Deployment & Production Support</li>
 </ul>
@@ -80,12 +80,10 @@ Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
 ## 🧠 My Focus Areas
 - Full Stack Development
 - Backend Development
-- Database Management
+- Database Engineer
 - API Design
-- System Architecture
-- Server Deployment
+- Application Deployment & Server Management
 - Application Performance Optimization
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
