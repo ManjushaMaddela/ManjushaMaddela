@@ -143,14 +143,15 @@ Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="40"/>&nbsp;&nbsp;
+  <img src="https://antigravity.google/favicon.ico" alt="Google Antigravity" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio Emulator" width="40"/>&nbsp;&nbsp;
   
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/>&nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="Altair GraphQL Client" width="40"/>&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server Management Studio (SSMS)" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server Management Studio (SSMS)" width="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/336791" alt="pgAdmin" width="40"/>
 
 </p>
 ## 🔗 Connect with Me
