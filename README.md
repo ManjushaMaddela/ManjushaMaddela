@@ -139,11 +139,9 @@ Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>&nbsp;&nbsp;
-
   <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40"/>&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40"/>&nbsp;&nbsp;
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/>&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio Emulator" width="40"/>&nbsp;&nbsp;
@@ -152,7 +150,6 @@ Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="Altair GraphQL Client" width="40"/>&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40"/>&nbsp;&nbsp;
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server Management Studio (SSMS)" width="40"/>
 
 </p>
