@@ -139,7 +139,7 @@ Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40"/>
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40"/>&nbsp;&nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/>&nbsp;&nbsp;
