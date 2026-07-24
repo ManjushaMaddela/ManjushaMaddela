@@ -19,15 +19,25 @@
 <p>
 Experienced in Full Stack Development, Database Engineering, API Development, and Application Deployment, building scalable, secure, and high-performance web and mobile applications.
 </p>
+<h4>🚀 Full Stack Development</h4> 
 <ul>
-  <li>Designed and developed scalable <b>RESTful</b> and <b>GraphQL APIs</b> for web and mobile applications.</li>
-  <li>Built and maintained full-stack applications using modern frontend and backend technologies.</li>
-  <li>Designed, managed, and optimized <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b> and <b>PostgreSQL</b> databases, including schema design, data migrations, query optimization, and database maintenance.</li>
-  <li>Managed application deployment, <b>Linux server configuration, Nginx</b>, environment setup, and production releases.</li>
-  <li>Developed secure authentication, authorization, and <b>Role-Based Access Control (RBAC) modules</b>.</li>
-  <li>Monitored, diagnosed, and resolved production issues to ensure application reliability and performance.</li>
-  <li>Collaborated with frontend developers, QA engineers, and cross-functional teams in an <b>Agile development environment</b>.  </li>
-  <li>Used <b>Git</b> and <b>GitHub</b> for version control, code reviews, and collaborative development.</li>
+  <li>Designed, developed, and maintained <b>scalable web and mobile applications</b> using modern <b>frontend</b> and <b>backend technologies</b>.</li>
+
+<li>Built secure and high-performance <b>RESTful APIs</b> and <b>GraphQL APIs</b> to support seamless communication between web, mobile, and backend systems.</li>
+
+<li>Developed responsive <b>user interfaces</b> and integrated frontend applications with backend services to deliver intuitive and user-friendly experiences.</li>
+
+<li>Implemented robust <b>business logic</b>, <b>API integrations</b>, and <b>third-party service integrations</b> to meet application and business requirements.</li>
+
+<li>Developed secure <b>Authentication</b>, <b>Authorization</b>, and <b>Role-Based Access Control (RBAC)</b> modules to protect applications and user data.</li>
+
+<li>Integrated applications with <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, and <b>PostgreSQL</b> databases using <b>Prisma ORM</b> and optimized data access for high-performance applications.</li>
+
+<li>Collaborated with <b>cross-functional teams</b>, including frontend developers, QA engineers, UI/UX designers, and stakeholders, following <b>Agile/Scrum</b> methodologies.</li>
+
+<li>Utilized <b>Git</b> and <b>GitHub</b> for <b>version control</b>, <b>code reviews</b>, <b>branch management</b>, and collaborative software development.</li>
+
+<li>Managed <b>application deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>environment setup</b>, <b>production releases</b>, <b>application monitoring</b>, and <b>production issue resolution</b> to ensure high availability, reliability, and optimal system performance.</li>
 </ul>
 <h4>🚀 Database Design/Develop & Management</h4>
 <br>
