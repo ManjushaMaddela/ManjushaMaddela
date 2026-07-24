@@ -29,7 +29,7 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
   <li>Collaborated with frontend developers, QA engineers, and cross-functional teams in an <b>Agile development environment</b>.  </li>
   <li>Used <b>Git</b> and <b>GitHub</b> for version control, code reviews, and collaborative development.</li>
 </ul>
-<b>🚀 Database Design/Develop & Management</b>
+<h5>🚀 Database Design/Develop & Management</h5>
 <br>
 <ul>
 <li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, and <b>PostgreSQL</b>.</li>
