@@ -114,18 +114,17 @@ Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
 </p>
 <p>
 <b>Overview:</b>
-A loan collection management platform designed to streamline EMI collection and recovery processes. The system consolidates loan data from multiple banking institutions, enabling administrators and collection agents to efficiently manage customers, loans, EMI schedules, payment tracking, and collection activities through a centralized admin portal.
+A loan collection management platform that enables administrators to manage customers, loans, EMI collections, and payment tracking using loan data consolidated from multiple banking institutions.
 </p>
 <p><b>Responsibilities:</b></p>
 <ul>
-    <li>Designed and developed the <b>database architecture</b>, including <b>ER diagrams</b>, <b>data models</b>, and <b>normalized database schemas</b>.</li>
-    <li>Created and managed <b>MySQL</b> and <b>Microsoft SQL Server (MSSQL)</b> database structures, including tables, relationships, constraints, indexes, and keys.</li>
-    <li>Designed modules for <b>Customers</b>, <b>Loans</b>, <b>EMI Management</b>, <b>Loan Payments</b>, <b>Collection Agents</b>, <b>Admin Management</b>, and <b>Role-Based Access Control (RBAC)</b>.</li>
-    <li>Performed <b>database migrations</b>, <b>schema modifications</b>, and <b>production database updates</b> while ensuring <b>data integrity</b> and <b>data consistency</b>.</li>
-    <li>Optimized <b>SQL queries</b>, <b>database performance</b>, and <b>data relationships</b> to support high-volume financial transactions.</li>
-    <li>Collaborated with backend developers to integrate the database using <b>Prisma ORM</b> and support scalable API development.</li>
-    <li>Managed <b>project deployment</b>, <b>production environment setup</b>, <b>Linux server configuration</b>, <b>Nginx configuration</b>, and <b>production releases</b>, ensuring secure and reliable application deployment.</li>
-    <li>Performed <b>production support</b>, <b>database monitoring</b>, <b>performance optimization</b>, and <b>issue resolution</b> to ensure high availability and system reliability.</li>
+    <li>Designed and managed <b>database architecture</b>, <b>ER diagrams</b>, <b>schemas</b>, and <b>data models</b>.</li>
+
+    <li>Developed and optimized <b>SQL queries</b>, <b>database objects</b>, and performed <b>schema migrations</b> and <b>production database updates</b>.</li>
+
+    <li>Integrated the database with backend services using <b>Prisma ORM</b> and supported <b>API development</b>.</li>
+
+    <li>Managed <b>project deployment</b>, <b>Linux server</b>, <b>Nginx configuration</b>, and provided <b>production support</b>.</li>
 </ul>
 <p>
 <b>Tech Stack:</b>
