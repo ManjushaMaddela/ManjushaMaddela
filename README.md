@@ -118,13 +118,7 @@ A loan collection management platform that enables administrators to manage cust
 </p>
 <p><b>Responsibilities:</b></p>
 <ul>
-    <li>Designed and managed <b>database architecture</b>, <b>ER diagrams</b>, <b>schemas</b>, and <b>data models</b>.</li>
-
-    <li>Developed and optimized <b>SQL queries</b>, <b>database objects</b>, and performed <b>schema migrations</b> and <b>production database updates</b>.</li>
-
-    <li>Integrated the database with backend services using <b>Prisma ORM</b> and supported <b>API development</b>.</li>
-
-    <li>Managed <b>project deployment</b>, <b>Linux server</b>, <b>Nginx configuration</b>, and provided <b>production support</b>.</li>
+    <li>Designed and managed <b>database architecture</b>, <b>ER diagrams</b>, <b>database schemas</b>, and <b>data models</b>.</li> <li>Developed and optimized <b>SQL queries</b>, performed <b>schema migrations</b>, and executed <b>production database updates</b> while ensuring <b>data integrity</b>.</li> <li>Integrated databases with backend services using <b>Prisma ORM</b> and supported <b>RESTful APIs</b> and <b>GraphQL APIs</b>.</li> <li>Managed <b>project deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>environment setup</b>, and provided <b>production support</b> to ensure application reliability.</li>
 </ul>
 <p>
 <b>Tech Stack:</b>
