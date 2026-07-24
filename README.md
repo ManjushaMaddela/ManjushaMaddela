@@ -83,7 +83,7 @@ Developed and maintained modules for User and vendor managements, service manage
 </ul>
 <p>
 <b>Tech Stack:</b>
-React.js • NestJS • GraphQL • MySQL, Redis • Prisma ORM • Linux • Nginx Server
+React.js • NestJS • GraphQL • MySQL, SqlLite, Redis • Prisma ORM • Linux • Nginx Server
 </p>
 
 <h4>🎉 IT Service Management (ITSM) Platform both Mobile and WEB Application</h4>
