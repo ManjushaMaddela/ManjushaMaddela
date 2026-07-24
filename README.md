@@ -31,7 +31,7 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
 
 <li>Developed secure <b>Authentication</b>, <b>Authorization</b>, and <b>Role-Based Access Control (RBAC)</b> modules to protect applications and user data.</li>
 
-<li>Integrated applications with <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, and <b>PostgreSQL</b> databases using <b>Prisma ORM</b> and optimized data access for high-performance applications.</li>
+<li>Integrated applications with <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>,<b>PostgreSQL</b>,<b>SQLLite</b> and <b>Redis</b> databases using <b>Prisma ORM</b> and optimized data access for high-performance applications.</li>
 
 <li>Collaborated with <b>cross-functional teams</b>, including frontend developers, QA engineers, UI/UX designers, and stakeholders, following <b>Agile/Scrum</b> methodologies.</li>
 
@@ -42,7 +42,7 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
 <h4>🚀 Database Design/Develop & Management</h4>
 <br>
 <ul>
-<li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, and <b>PostgreSQL</b>.</li>
+<li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, <b>PostgreSQL</b>, <b>SQLlite</b> and <b>Redis</b>.</li>
 
 <li>Designed <b>normalized database schemas</b>, <b>data models</b>, <b>ER diagrams</b>, <b>table relationships</b>, <b>constraints</b>, <b>primary &amp; foreign keys</b>, and <b>indexes</b> for scalable enterprise applications.</li>
 
@@ -83,7 +83,7 @@ Developed and maintained modules for User and vendor managements, service manage
 </ul>
 <p>
 <b>Tech Stack:</b>
-React.js • NestJS • GraphQL • MySQL • Prisma ORM • Linux • Nginx Server
+React.js • NestJS • GraphQL • MySQL, Redis • Prisma ORM • Linux • Nginx Server
 </p>
 
 <h4>🎉 IT Service Management (ITSM) Platform both Mobile and WEB Application</h4>
@@ -105,7 +105,7 @@ Enterprise service management platform for managing service requests, incidents,
 </ul>
 <p>
 <b>Tech Stack:</b>
-Next.js, React Native, NestJS, GraphQL, MySQL, Nginx Server, Linux
+Next.js, React Native, NestJS, GraphQL, MySQL, Redis, Nginx Server, Linux
 </p>
 
 <h4>💰 PayX Collect – Loan Collection Management Platform (Admin Portal)</h4>
@@ -118,11 +118,14 @@ A loan collection management platform that enables administrators to manage cust
 </p>
 <p><b>Responsibilities:</b></p>
 <ul>
-    <li>Designed and managed <b>database architecture</b>, <b>ER diagrams</b>, <b>database schemas</b>, and <b>data models</b>.</li> <li>Developed and optimized <b>SQL queries</b>, performed <b>schema migrations</b>, and executed <b>production database updates</b> while ensuring <b>data integrity</b>.</li> <li>Integrated databases with backend services using <b>Prisma ORM</b> and supported <b>RESTful APIs</b> and <b>GraphQL APIs</b>.</li> <li>Managed <b>project deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>environment setup</b>, and provided <b>production support</b> to ensure application reliability.</li>
+    <li>Designed and managed <b>database architecture</b>, <b>ER diagrams</b>, <b>database schemas</b>, and <b>data models</b>. </li> 
+  <li>Developed and optimized <b>SQL queries</b>, performed <b>schema migrations</b>, and executed <b>production database updates</b> while ensuring <b>data integrity</b>.</li> 
+  <li>Integrated databases with backend services using <b>Prisma ORM</b> and supported <b>RESTful APIs</b> and <b>GraphQL APIs</b>.</li> 
+  <li>Managed <b>project deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>environment setup</b>, and provided <b>production support</b> to ensure application reliability.</li>
 </ul>
 <p>
 <b>Tech Stack:</b>
-NestJS, Prisma ORM, MySQL, Microsoft SQL Server (MSSQL), GraphQL, Linux, Nginx
+NestJS, Prisma ORM, MySQL, Redis, GraphQL, Linux, Nginx
 </p>
 
 ## 🧠 My Focus Areas
