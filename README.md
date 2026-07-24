@@ -30,25 +30,24 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
   <li>Used <b>Git</b> and <b>GitHub</b> for version control, code reviews, and collaborative development.</li>
 </ul>
 ### Database Engineering & Management
-
 <ul>
-<li>Designed, developed, and maintained <strong>scalable relational database solutions</strong> using <strong>MySQL</strong>, <strong>Microsoft SQL Server (MSSQL)</strong>, and <strong>PostgreSQL</strong>.</li>
+    <li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, and <b>PostgreSQL</b>.</li>
 
-<li>Designed <strong>normalized database schemas</strong>, <strong>data models</strong>, <strong>ER diagrams</strong>, <strong>table relationships</strong>, <strong>constraints</strong>, <strong>indexes</strong>, and <strong>keys</strong> to support scalable enterprise applications.</li>
+    <li>Designed <b>normalized schemas</b>, <b>data models</b>, <b>ER diagrams</b>, <b>table relationships</b>, <b>constraints</b>, <b>indexes</b>, and <b>keys</b> for scalable enterprise applications.</li>
 
-<li>Performed <strong>database schema modifications</strong>, <strong>data migrations</strong>, <strong>database versioning</strong>, and <strong>production database deployments</strong> while ensuring <strong>data integrity</strong> and minimal downtime.</li>
+    <li>Performed <b>schema modifications</b>, <b>data migrations</b>, <b>production deployments</b>, and <b>version upgrades</b> while ensuring <b>data integrity</b> and minimal downtime.</li>
 
-<li>Developed and optimized <strong>complex SQL queries</strong>, <strong>Stored Procedures</strong>, <strong>Views</strong>, <strong>Triggers</strong>, and other <strong>database objects</strong> to improve application performance and maintainability.</li>
+    <li>Developed and optimized <b>complex SQL queries</b>, <b>Stored Procedures</b>, <b>Views</b>, <b>Triggers</b>, and other <b>database objects</b> to improve performance and maintainability.</li>
 
-<li>Implemented <strong>query optimization</strong>, <strong>indexing strategies</strong>, and <strong>database performance tuning</strong> techniques to enhance database efficiency and reduce query execution time.</li>
+    <li>Implemented <b>query optimization</b>, <b>indexing strategies</b>, and <b>performance tuning</b> to improve efficiency and reduce query execution time.</li>
 
-<li>Managed <strong>database security</strong>, <strong>authentication</strong>, <strong>authorization</strong>, <strong>backup and recovery</strong>, <strong>user access management</strong>, and routine <strong>database maintenance</strong>.</li>
+    <li>Managed <b>security</b>, <b>authentication</b>, <b>authorization</b>, <b>backup & recovery</b>, <b>user access management</b>, and routine maintenance.</li>
 
-<li>Worked extensively with <strong>Prisma ORM</strong> for <strong>database modeling</strong>, <strong>schema design</strong>, <strong>database migrations</strong>, and seamless integration with backend services.</li>
+    <li>Utilized <b>Prisma ORM</b> for <b>data modeling</b>, <b>schema design</b>, <b>migrations</b>, and seamless integration with backend services.</li>
 
-<li>Collaborated with cross-functional teams to design <strong>scalable</strong>, <strong>secure</strong>, <strong>high-performance database solutions</strong> aligned with business requirements and software architecture.</li>
+    <li>Collaborated with cross-functional teams to deliver <b>scalable</b>, <b>secure</b>, and <b>high-performance data solutions</b> aligned with business and application requirements.</li>
 
-<li>Performed <strong>database troubleshooting</strong>, <strong>production support</strong>, <strong>performance monitoring</strong>, and <strong>issue resolution</strong> to ensure high availability, reliability, and optimal system performance.</li>
+    <li>Performed <b>troubleshooting</b>, <b>performance monitoring</b>, <b>production support</b>, and <b>issue resolution</b> to ensure <b>high availability</b>, <b>reliability</b>, and optimal system performance.</li>
 </ul>
 </div>
 
