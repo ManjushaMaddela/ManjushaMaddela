@@ -31,23 +31,23 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
 </ul>
 Database Engineering & Management
 <ul>
-    <li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, and <b>PostgreSQL</b>.</li>
+<li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, and <b>PostgreSQL</b>.</li>
 
-    <li>Designed <b>normalized schemas</b>, <b>data models</b>, <b>ER diagrams</b>, <b>table relationships</b>, <b>constraints</b>, <b>indexes</b>, and <b>keys</b> for scalable enterprise applications.</li>
+<li>Designed <b>normalized database schemas</b>, <b>data models</b>, <b>ER diagrams</b>, <b>table relationships</b>, <b>constraints</b>, <b>primary &amp; foreign keys</b>, and <b>indexes</b> for scalable enterprise applications.</li>
 
-    <li>Performed <b>schema modifications</b>, <b>data migrations</b>, <b>production deployments</b>, and <b>version upgrades</b> while ensuring <b>data integrity</b> and minimal downtime.</li>
+<li>Performed <b>schema modifications</b>, <b>data migrations</b>, <b>production deployments</b>, and <b>database version upgrades</b> while ensuring <b>data integrity</b>, <b>data consistency</b>, and minimal downtime.</li>
 
-    <li>Developed and optimized <b>complex SQL queries</b>, <b>Stored Procedures</b>, <b>Views</b>, <b>Triggers</b>, and other <b>database objects</b> to improve performance and maintainability.</li>
+<li>Developed and optimized <b>complex SQL queries</b>, <b>Stored Procedures</b>, <b>Views</b>, <b>Triggers</b>, and other <b>database objects</b> to improve <b>performance</b>, <b>maintainability</b>, and <b>data processing efficiency</b>.</li>
 
-    <li>Implemented <b>query optimization</b>, <b>indexing strategies</b>, and <b>performance tuning</b> to improve efficiency and reduce query execution time.</li>
+<li>Implemented <b>query optimization</b>, <b>indexing strategies</b>, and <b>performance tuning</b> to enhance <b>database performance</b> and reduce query execution time.</li>
 
-    <li>Managed <b>security</b>, <b>authentication</b>, <b>authorization</b>, <b>backup & recovery</b>, <b>user access management</b>, and routine maintenance.</li>
+<li>Managed <b>database security</b>, <b>authentication</b>, <b>authorization</b>, <b>backup &amp; recovery</b>, <b>user access management</b>, and routine <b>database maintenance</b> to ensure secure and reliable operations.</li>
 
-    <li>Utilized <b>Prisma ORM</b> for <b>data modeling</b>, <b>schema design</b>, <b>migrations</b>, and seamless integration with backend services.</li>
+<li>Utilized <b>Prisma ORM</b> for <b>data modeling</b>, <b>schema design</b>, <b>database migrations</b>, and seamless integration with backend services.</li>
 
-    <li>Collaborated with cross-functional teams to deliver <b>scalable</b>, <b>secure</b>, and <b>high-performance data solutions</b> aligned with business and application requirements.</li>
+<li>Collaborated with cross-functional teams to deliver <b>scalable</b>, <b>secure</b>, and <b>high-performance database solutions</b> aligned with business requirements and application architecture.</li>
 
-    <li>Performed <b>troubleshooting</b>, <b>performance monitoring</b>, <b>production support</b>, and <b>issue resolution</b> to ensure <b>high availability</b>, <b>reliability</b>, and optimal system performance.</li>
+<li>Performed <b>database troubleshooting</b>, <b>performance monitoring</b>, <b>production support</b>, and <b>issue resolution</b> to ensure <b>high availability</b>, <b>system reliability</b>, and optimal performance.</li>
 </ul>
 </div>
 
