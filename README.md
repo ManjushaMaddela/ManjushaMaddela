@@ -29,6 +29,27 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
   <li>Collaborated with frontend developers, QA engineers, and cross-functional teams in an <b>Agile development environment</b>.  </li>
   <li>Used <b>Git</b> and <b>GitHub</b> for version control, code reviews, and collaborative development.</li>
 </ul>
+### Database Engineering & Management
+
+<ul>
+<li>Designed, developed, and maintained <strong>scalable relational database solutions</strong> using <strong>MySQL</strong>, <strong>Microsoft SQL Server (MSSQL)</strong>, and <strong>PostgreSQL</strong>.</li>
+
+<li>Designed <strong>normalized database schemas</strong>, <strong>data models</strong>, <strong>ER diagrams</strong>, <strong>table relationships</strong>, <strong>constraints</strong>, <strong>indexes</strong>, and <strong>keys</strong> to support scalable enterprise applications.</li>
+
+<li>Performed <strong>database schema modifications</strong>, <strong>data migrations</strong>, <strong>database versioning</strong>, and <strong>production database deployments</strong> while ensuring <strong>data integrity</strong> and minimal downtime.</li>
+
+<li>Developed and optimized <strong>complex SQL queries</strong>, <strong>Stored Procedures</strong>, <strong>Views</strong>, <strong>Triggers</strong>, and other <strong>database objects</strong> to improve application performance and maintainability.</li>
+
+<li>Implemented <strong>query optimization</strong>, <strong>indexing strategies</strong>, and <strong>database performance tuning</strong> techniques to enhance database efficiency and reduce query execution time.</li>
+
+<li>Managed <strong>database security</strong>, <strong>authentication</strong>, <strong>authorization</strong>, <strong>backup and recovery</strong>, <strong>user access management</strong>, and routine <strong>database maintenance</strong>.</li>
+
+<li>Worked extensively with <strong>Prisma ORM</strong> for <strong>database modeling</strong>, <strong>schema design</strong>, <strong>database migrations</strong>, and seamless integration with backend services.</li>
+
+<li>Collaborated with cross-functional teams to design <strong>scalable</strong>, <strong>secure</strong>, <strong>high-performance database solutions</strong> aligned with business requirements and software architecture.</li>
+
+<li>Performed <strong>database troubleshooting</strong>, <strong>production support</strong>, <strong>performance monitoring</strong>, and <strong>issue resolution</strong> to ensure high availability, reliability, and optimal system performance.</li>
+</ul>
 </div>
 
 <h3>🚀 Professional Projects</h3>
