@@ -5,7 +5,7 @@
 <h3>📌 About Me</h3>
 <hr></hr>
 <ul>
-  <li>💼 Software Developer with 1 year of professional experience</li>
+  <li>💼 Software Engineer with 1+ year of professional experience</li>
   <li>🔧 Experienced in both front-end, Backend Development, Database Development & Management, API Design, and Deployment</li>
   <li>🌱 Passionate about building scalable and efficient software solutions</li>
   <li>💻 Strong understanding of system architecture, authentication, authorization, and business workflows</li>
@@ -15,7 +15,7 @@
 <h3>💼 Professional Experience</h3>
 <hr></hr>
 <div align="left">
-<h4>🚀 Software Developer | XSILICA Software Solutions Pvt Ltd</h4>
+<h4>🚀 Software Engineer | XSILICA Software Solutions Pvt Ltd</h4>
 <p>
 Experienced in Full Stack Development, Database Engineering, API Development, and Application Deployment, building scalable, secure, and high-performance web and mobile applications.
 </p>
