@@ -31,18 +31,18 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
 
 <li>Developed secure <b>Authentication</b>, <b>Authorization</b>, and <b>Role-Based Access Control (RBAC)</b> modules to protect applications and user data.</li>
 
-<li>Integrated applications with <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>,<b>PostgreSQL</b>,<b>SQLite</b> and <b>Redis</b> databases using <b>Prisma ORM</b> and optimized data access for high-performance applications.</li>
+<li>Integrated applications with <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>,<b>PostgreSQL</b>,<b>Oracle Database</b>,<b>SQLite</b> and <b>Redis</b> databases using <b>Prisma ORM</b> and optimized data access for high-performance applications.</li>
 
 <li>Collaborated with <b>cross-functional teams</b>, including frontend developers, QA engineers, UI/UX designers, and stakeholders, following <b>Agile/Scrum</b> methodologies.</li>
 
 <li>Utilized <b>Git</b> and <b>GitHub</b> for <b>version control</b>, <b>code reviews</b>, <b>branch management</b>, and collaborative software development.</li>
 
-<li>Managed <b>application deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>environment setup</b>, <b>production releases</b>, <b>application monitoring</b>, and <b>production issue resolution</b> to ensure high availability, reliability, and optimal system performance.</li>
+<li>Managed <b>application deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>Microsoft Azure cloud environments</b>, <b>environment setup</b>, <b>production releases</b>, <b>application monitoring</b>, and <b>production issue resolution</b> to ensure high availability, reliability, and optimal system performance.</li>
 </ul>
 <h4>🚀 Database Design/Develop & Management</h4>
 <br>
 <ul>
-<li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, <b>PostgreSQL</b>, <b>SQLite</b> and <b>Redis</b>.</li>
+<li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, <b>PostgreSQL</b>, <b>Oracle Database</b>, <b>SQLite</b> and <b>Redis</b>.</li>
 
 <li>Designed <b>normalized database schemas</b>, <b>data models</b>, <b>ER diagrams</b>, <b>table relationships</b>, <b>constraints</b>, <b>primary &amp; foreign keys</b>, and <b>indexes</b> for scalable enterprise applications.</li>
 
@@ -83,7 +83,7 @@ Developed and maintained modules for User and vendor managements, service manage
 </ul>
 <p>
 <b>Tech Stack:</b>
-React.js • NestJS • GraphQL • MySQL, SqLite, Redis • Prisma ORM • Linux • Nginx Server
+React.js • NestJS • GraphQL • MySQL, SqLite, Redis • Prisma ORM • Linux • Nginx Server , Microsoft Azure
 </p>
 
 <h4>🎉 IT Service Management (ITSM) Platform both Mobile and WEB Application</h4>
@@ -105,7 +105,7 @@ Enterprise service management platform for managing service requests, incidents,
 </ul>
 <p>
 <b>Tech Stack:</b>
-Next.js, React Native, NestJS, GraphQL, MySQL, Redis, Nginx Server, Linux
+Next.js, React Native, NestJS, GraphQL, MySQL, Redis, Nginx Server, Linux, Microsoft Azure
 </p>
 
 <h4>💰 PayX Collect – Loan Collection Management Platform (Admin Portal)</h4>
@@ -188,6 +188,8 @@ NestJS, Prisma ORM, MySQL, Redis, GraphQL, Linux, Nginx
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
 </p>
+
+<h3 align="center">Cloud Technologies</h3> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" /> </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
