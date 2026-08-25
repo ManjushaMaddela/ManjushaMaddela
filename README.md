@@ -189,7 +189,7 @@ NestJS, Prisma ORM, MySQL, Redis, GraphQL, Linux, Nginx
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
 </p>
 
-<h3 align="center">Cloud Technologies</h3> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" /> </p>
+<h3 align="center">Cloud Technologies</h3> 
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" />&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" /> </p>
 
 <h3 align="center">Tools</h3>
