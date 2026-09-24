@@ -17,7 +17,7 @@
 <div align="left">
 <h4>🚀 Software Engineer | XSILICA Software Solutions Pvt Ltd</h4>
 <p>
-Experienced in Full Stack Development, Database Engineering, API Development, and Application Deployment, building scalable, secure, and high-performance web and mobile applications.
+Experienced in Full Stack Development, Database Developer/Engineering, API Development, and Application Deployment, building scalable, secure, and high-performance web and mobile applications.
 </p>
 <h4>🚀 Full Stack Development</h4> 
 <ul>
@@ -39,7 +39,7 @@ Experienced in Full Stack Development, Database Engineering, API Development, an
 
 <li>Managed <b>application deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>Microsoft Azure cloud environments</b>, <b>environment setup</b>, <b>production releases</b>, <b>application monitoring</b>, and <b>production issue resolution</b> to ensure high availability, reliability, and optimal system performance.</li>
 </ul>
-<h4>🚀 Database Design/Develop & Management</h4>
+<h4>🚀 Database Developer/Engineer</h4>
 <br>
 <ul>
 <li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, <b>PostgreSQL</b>, <b>Oracle Database</b>, <b>SQLite</b> and <b>Redis</b>.</li>
