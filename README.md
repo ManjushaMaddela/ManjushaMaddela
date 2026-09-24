@@ -40,7 +40,6 @@ Experienced in Full Stack Development, Database Developer/Engineering, API Devel
 <li>Managed <b>application deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>Microsoft Azure cloud environments</b>, <b>environment setup</b>, <b>production releases</b>, <b>application monitoring</b>, and <b>production issue resolution</b> to ensure high availability, reliability, and optimal system performance.</li>
 </ul>
 <h4>🚀 Database Developer/Engineer</h4>
-<br>
 <ul>
 <li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, <b>PostgreSQL</b>, <b>Oracle Database</b>, <b>SQLite</b> and <b>Redis</b>.</li>
 
