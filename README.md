@@ -141,7 +141,7 @@ Next.js, React Native, NestJS, GraphQL, MySQL, Redis, Nginx Server, Linux, Micro
 
 <h4>💰 PayX Collect – Loan Collection Management Platform (Admin Portal)</h4>
 <p>
-<b>Role:</b> Database Engineer (Database Design, Development & Management), Project Deployment
+<b>Role:</b> Database Developer & Engineer (Database Design, Development & Management), Project Deployment
 </p>
 <p>
 <b>Overview:</b>
