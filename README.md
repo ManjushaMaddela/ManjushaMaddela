@@ -151,6 +151,9 @@ A loan collection management platform that enables administrators to manage cust
 <ul>
     <li>Designed and managed <b>database architecture</b>, <b>ER diagrams</b>, <b>database schemas</b>, and <b>data models</b>. </li> 
   <li>Developed and optimized <b>SQL queries</b>, performed <b>schema migrations</b>, and executed <b>production database updates</b> while ensuring <b>data integrity</b>.</li> 
+<li>Developed and maintained PostgreSQL Stored Procedures for business operations, data processing, customer allocation, collection management, and reporting.</li>
+<li>Integrated Stored Procedures with the NestJS backend using Prisma ORM and implemented database operations through backend services.</li>
+<li>Developed and optimized SQL queries and Stored Procedures, focusing on query performance, indexing, data integrity, and efficient data processing.</li>
   <li>Integrated databases with backend services using <b>Prisma ORM</b> and supported <b>RESTful APIs</b> and <b>GraphQL APIs</b>.</li> 
   <li>Managed <b>project deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>environment setup</b>, and provided <b>production support</b> to ensure application reliability.</li>
 </ul>
