@@ -39,10 +39,8 @@ Experienced in Full Stack Development, Database Developer/Engineering, API Devel
 
 <li>Managed <b>application deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>Microsoft Azure cloud environments</b>, <b>environment setup</b>, <b>production releases</b>, <b>application monitoring</b>, and <b>production issue resolution</b> to ensure high availability, reliability, and optimal system performance.</li>
 </ul>
-<h4>🚀 Database Development & Engineering</h4>
-<br>
+<h4>🚀 Database Development/Engineering</h4>
 <ul>
-
 <li>Designed, developed, and maintained <b>scalable relational database systems</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, <b>PostgreSQL</b>, <b>Oracle Database</b>, and <b>SQLite</b>.</li>
 
 <li>Strong understanding of <b>SQL</b> and database-specific SQL technologies including <b>T-SQL</b> for SQL Server, <b>PL/SQL</b> for Oracle, and <b>PL/pgSQL</b> for PostgreSQL.</li>
@@ -76,22 +74,22 @@ Experienced in Full Stack Development, Database Developer/Engineering, API Devel
 </ul>
 
 <h4>🗄️ Database Technologies</h4>
-<p align="center">
+<p align="left">
   <b>MySQL</b> • <b>Microsoft SQL Server</b> • <b>PostgreSQL</b> • <b>Oracle Database</b> • <b>SQLite</b>
 </p>
 
 <h4>💻 Database Languages</h4>
-<p align="center">
+<p align="left">
   <b>SQL</b> • <b>T-SQL</b> • <b>PL/SQL</b> • <b>PL/pgSQL</b>
 </p>
 
 <h4>⚙️ Database Development & Administration</h4>
-<p align="center">
+<p align="left">
   <b>Database Design</b> • <b>Normalization</b> • <b>ER Modeling</b> • <b>Stored Procedures</b> • <b>Functions</b> • <b>Views</b> • <b>Triggers</b> • <b>Indexes</b> • <b>Query Optimization</b> • <b>Performance Tuning</b> • <b>Transactions</b> • <b>Backup & Recovery</b> • <b>Security & Permissions</b> • <b>Database Migration</b> • <b>Production Support</b>
 </p>
 
 <h4>🛠️ Database Tools</h4>
-<p align="center">
+<p align="left">
   <b>MySQL Workbench</b> • <b>SQL Server Management Studio (SSMS)</b> • <b>pgAdmin</b> • <b>Prisma ORM</b>
 </p>
 
