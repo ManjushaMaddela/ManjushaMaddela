@@ -39,27 +39,61 @@ Experienced in Full Stack Development, Database Developer/Engineering, API Devel
 
 <li>Managed <b>application deployment</b>, <b>Linux server administration</b>, <b>Nginx configuration</b>, <b>Microsoft Azure cloud environments</b>, <b>environment setup</b>, <b>production releases</b>, <b>application monitoring</b>, and <b>production issue resolution</b> to ensure high availability, reliability, and optimal system performance.</li>
 </ul>
-<h4>🚀 Database Developer/Engineer</h4>
+<h4>🚀 Database Development & Engineering</h4>
+<br>
 <ul>
-<li>Designed, developed, and maintained <b>scalable relational databases</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, <b>PostgreSQL</b>, <b>Oracle Database</b>, <b>SQLite</b> and <b>Redis</b>.</li>
 
-<li>Designed <b>normalized database schemas</b>, <b>data models</b>, <b>ER diagrams</b>, <b>table relationships</b>, <b>constraints</b>, <b>primary &amp; foreign keys</b>, and <b>indexes</b> for scalable enterprise applications.</li>
+<li>Designed, developed, and maintained <b>scalable relational database systems</b> using <b>MySQL</b>, <b>Microsoft SQL Server (MSSQL)</b>, <b>PostgreSQL</b>, <b>Oracle Database</b>, and <b>SQLite</b>.</li>
 
-<li>Performed <b>schema modifications</b>, <b>data migrations</b>, <b>production deployments</b>, and <b>database version upgrades</b> while ensuring <b>data integrity</b>, <b>data consistency</b>, and minimal downtime.</li>
+<li>Strong understanding of <b>SQL</b> and database-specific SQL technologies including <b>T-SQL</b> for SQL Server, <b>PL/SQL</b> for Oracle, and <b>PL/pgSQL</b> for PostgreSQL.</li>
 
-<li>Developed and optimized <b>complex SQL queries</b>, <b>Stored Procedures</b>, <b>Views</b>, <b>Triggers</b>, and other <b>database objects</b> to improve <b>performance</b>, <b>maintainability</b>, and <b>data processing efficiency</b>.</li>
+<li>Designed <b>database architectures</b>, <b>normalized schemas</b>, <b>data models</b>, <b>ER diagrams</b>, <b>table relationships</b>, <b>primary keys</b>, <b>foreign keys</b>, <b>unique constraints</b>, <b>check constraints</b>, and <b>indexes</b> for enterprise applications.</li>
 
-<li>Implemented <b>query optimization</b>, <b>indexing strategies</b>, and <b>performance tuning</b> to enhance <b>database performance</b> and reduce query execution time.</li>
+<li>Developed and optimized <b>complex SQL queries</b> involving <b>joins</b>, <b>subqueries</b>, <b>CTEs</b>, <b>aggregate functions</b>, <b>window functions</b>, and advanced data-processing logic.</li>
 
-<li>Managed <b>database security</b>, <b>authentication</b>, <b>authorization</b>, <b>backup &amp; recovery</b>, <b>user access management</b>, and routine <b>database maintenance</b> to ensure secure and reliable operations.</li>
+<li>Developed and maintained database objects including <b>Stored Procedures</b>, <b>Functions</b>, <b>Views</b>, <b>Triggers</b>, <b>Indexes</b>, and other database components.</li>
 
-<li>Utilized <b>Prisma ORM</b> for <b>data modeling</b>, <b>schema design</b>, <b>database migrations</b>, and seamless integration with backend services.</li>
+<li>Implemented <b>query optimization</b>, <b>indexing strategies</b>, <b>execution-plan analysis</b>, and <b>performance tuning</b> to improve query performance and reduce database response time.</li>
 
-<li>Collaborated with cross-functional teams to deliver <b>scalable</b>, <b>secure</b>, and <b>high-performance database solutions</b> aligned with business requirements and application architecture.</li>
+<li>Performed <b>database schema design</b>, <b>schema modifications</b>, <b>database migrations</b>, <b>data migrations</b>, and <b>production database deployments</b> while maintaining data integrity and consistency.</li>
 
-<li>Performed <b>database troubleshooting</b>, <b>performance monitoring</b>, <b>production support</b>, and <b>issue resolution</b> to ensure <b>high availability</b>, <b>system reliability</b>, and optimal performance.</li>
+<li>Worked with <b>transactions</b>, <b>ACID principles</b>, <b>constraints</b>, <b>referential integrity</b>, and database relationships to maintain reliable and consistent application data.</li>
+
+<li>Implemented and managed <b>database security</b>, including <b>users</b>, <b>roles</b>, <b>permissions</b>, <b>authentication</b>, and <b>authorization</b> for controlled database access.</li>
+
+<li>Worked with <b>database backup and recovery</b>, <b>database maintenance</b>, <b>production support</b>, and <b>database troubleshooting</b> to maintain reliable database operations.</li>
+
+<li>Performed <b>database monitoring</b>, <b>performance analysis</b>, and <b>production issue resolution</b> for database-related application issues.</li>
+
+<li>Experienced in <b>database migration and cross-database development</b>, including working with MySQL, Microsoft SQL Server, PostgreSQL, Oracle Database, and SQLite.</li>
+
+<li>Used <b>Prisma ORM</b> for <b>database schema modeling</b>, <b>data modeling</b>, <b>database migrations</b>, and application-to-database integration.</li>
+
+<li>Worked with development and production databases while following <b>database development standards</b>, <b>data integrity practices</b>, and <b>production change management</b>.</li>
+
+<li>Collaborated with backend and application teams to design database solutions aligned with <b>application architecture</b>, <b>business requirements</b>, <b>scalability</b>, and <b>performance requirements</b>.</li>
+
 </ul>
-</div>
+
+<h4>🗄️ Database Technologies</h4>
+<p align="center">
+  <b>MySQL</b> • <b>Microsoft SQL Server</b> • <b>PostgreSQL</b> • <b>Oracle Database</b> • <b>SQLite</b>
+</p>
+
+<h4>💻 Database Languages</h4>
+<p align="center">
+  <b>SQL</b> • <b>T-SQL</b> • <b>PL/SQL</b> • <b>PL/pgSQL</b>
+</p>
+
+<h4>⚙️ Database Development & Administration</h4>
+<p align="center">
+  <b>Database Design</b> • <b>Normalization</b> • <b>ER Modeling</b> • <b>Stored Procedures</b> • <b>Functions</b> • <b>Views</b> • <b>Triggers</b> • <b>Indexes</b> • <b>Query Optimization</b> • <b>Performance Tuning</b> • <b>Transactions</b> • <b>Backup & Recovery</b> • <b>Security & Permissions</b> • <b>Database Migration</b> • <b>Production Support</b>
+</p>
+
+<h4>🛠️ Database Tools</h4>
+<p align="center">
+  <b>MySQL Workbench</b> • <b>SQL Server Management Studio (SSMS)</b> • <b>pgAdmin</b> • <b>Prisma ORM</b>
+</p>
 
 <h3>🚀 Professional Projects</h3>
 <hr></hr>
