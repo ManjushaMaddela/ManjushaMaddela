@@ -156,7 +156,7 @@ A loan collection management platform that enables administrators to manage cust
 </ul>
 <p>
 <b>Tech Stack:</b>
-NestJS, Prisma ORM, MySQL, Redis, GraphQL, Linux, Nginx
+PostgreSQL • SQL • PL/pgSQL • Stored Procedures • Prisma ORM • NestJS • GraphQL • Linux • Nginx
 </p>
 
 ## 🧠 My Focus Areas
