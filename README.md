@@ -130,10 +130,23 @@ NestJS, Prisma ORM, MySQL, Redis, GraphQL, Linux, Nginx
 ## 🧠 My Focus Areas
 - Full Stack Development
 - Backend Development
-- Database Engineer
 - API Design
 - Application Deployment & Server Management
 - Application Performance Optimization
+
+## 🧠 Database Focus Areas
+- Database Development & Engineering
+- SQL Development
+- Relational Database Management
+- Database Design & Data Modeling
+- Stored Procedures, Functions, Views & Triggers
+- Query Optimization & Performance Tuning
+- Database Migration & Schema Management
+- Database Security & Access Management
+- Backup & Recovery
+- Database Troubleshooting & Production Support
+- MySQL • Microsoft SQL Server • PostgreSQL • Oracle • SQLite
+- SQL • T-SQL • PL/SQL • PL/pgSQL
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
